@@ -1,5 +1,3 @@
-package com.server.model;
-
 public class LocationModel {
     private int location_no;
     private String name;
