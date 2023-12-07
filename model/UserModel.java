@@ -1,5 +1,3 @@
-package com.server.model;
-
 public class UserModel {
     private String id;
     private String pw;
