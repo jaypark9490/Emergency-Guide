@@ -1,5 +1,3 @@
-package com.server.model;
-
 public class ResponseModel {
     private int responsecode;
     private String message;
